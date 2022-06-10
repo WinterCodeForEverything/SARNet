@@ -1,0 +1,68 @@
+labels: 
+  0 : "unlabeled"
+  1 : "Car or Van or SUV"
+  2: "Truck"
+  3: "Bendy Bus"
+  4: "Rigid Bus"
+  5: "Construction Vehicle"
+  6: "Motorcycle"
+  7: "Bicycle"
+  8: "Bicycle Rack"
+  9: "Trailer"
+  10: "Police Vehicle"
+  11: "Ambulance"
+  12: "Adult Pedestrian"
+  13: "Child Pedestrian"
+  14: "Construction Worker"
+  15: "Stroller"
+  16: "Wheelchair"
+  17: "Portable Personal Mobility Vehicle"
+  18: "Police Officer"
+  19: "Animal"
+  20: "Traffic Cone"
+  21: "Temporary Traffic Barrier"
+  22: "Pushable Pullable Object"
+  23: "Debris" 
+  24: "flat.driveable_surface"
+  25: "flat.sidewalk"
+  26: "flat.terrain"
+  27: "flat.other"
+  28: "static.manmade"
+  29: "static.vegetation"
+  30: "static.other"
+  31: "vehicle.ego"
+
+learning_map:
+  0: 0
+  1: 1
+  2: 1
+  3: 1
+  4: 1
+  5: 1
+  6: 2
+  7: 2
+  8: 2
+  9: 1
+  10: 2
+  11: 1
+  12: 3
+  13: 3
+  14: 3
+  15: 4
+  16: 4
+  17: 1
+  18: 3
+  19: 5
+  20: 6
+  21: 6
+  22: 7
+  23: 7
+  24: 8
+  25: 9
+  26: 10
+  27: 11
+  28: 12
+  29: 13
+  30: 0
+  31: 1
+

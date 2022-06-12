@@ -28,6 +28,6 @@ After preprocessing, the dataset is:
 
 ## Acknowledgments
 We want to thank all the following open-source projects for the help of the implementation:
-- [RPMNet] (https://github.com/yewzijian/RPMNet)
+- [RPMNet](https://github.com/yewzijian/RPMNet)
 - [PointNet++](https://github.com/sshaoshuai/Pointnet2.PyTorch) (unofficial implementation, for Furthest Points Sampling)
-- [RandLA-Net] (https://github.com/aRI0U/RandLA-Net-pytorch.git) (unofficial implementation, for Semantic segmentation)
+- [RandLA-Net](https://github.com/aRI0U/RandLA-Net-pytorch.git) (unofficial implementation, for Semantic segmentation)

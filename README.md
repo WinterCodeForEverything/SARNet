@@ -13,11 +13,11 @@ python setup.py install
 
 ## Datasets
 After download the two datasets, we need to preprocess the datasets:
-###SemanticKITTI
+### SemanticKITTI
 download url: 
 the initial dataset is:
 After preprocessing, the dataset is:
-###NuScenes
+### NuScenes
 download url:
 the initial dataset is:
 After preprocessing, the dataset is:

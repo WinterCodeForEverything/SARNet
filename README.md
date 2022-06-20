@@ -3,7 +3,7 @@
 ## Environments
 The code mainly requires the following libraries and you can check `requirements.txt` for more environment requirements.
 - PyTorch
-- nuscenes(https://github.com/nutonomy/nuscenes-devkit)
+- [nuscenes](https://github.com/nutonomy/nuscenes-devkit)
 
 Please run the following commands to install `point_utils`
 ```
@@ -13,7 +13,7 @@ python setup.py install
 
 ## Datasets
 After download the two datasets, we need to preprocess the datasets:
-### SemanticKITTI(http://www.semantic-kitti.org/)
+### [SemanticKITTI](http://www.semantic-kitti.org/)
 We need to download both the points data and the semantic label,the initial dataset should be organized as:
 ```
 SemanticKITTI
@@ -44,7 +44,7 @@ SemanticKITTI
 		|--0003632.npy
 		...
 ```
-### NuScenes(https://www.nuscenes.org/)
+### [NuScenes](https://www.nuscenes.org/)
 Similar to SemanticKITTI, we need to download both the points data and the semantic label(Nusenes-lidarseg), 
 and extract the lidarseg and v1.0-* folders to our nuScenes root directory, the initial dataset should be organized as:
 ```

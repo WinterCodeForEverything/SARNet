@@ -45,7 +45,7 @@ def train_arguments():
     parser.add_argument('--augment', default = 0.5, type=float,
             help="The probability the data will be extra processed, eg, add another random rotation and translation to moving categories" )
     parser.add_argument('--num_workers', default=4, type=int, help='Number of workers for data_loader loader')
-    parser.add_argument( '--epoch_num',  default=30, type=int,  metavar='N', help="The epoch number in the training" )
+    parser.add_argument( '--epoch_num',  default=60, type=int,  metavar='N', help="The epoch number in the training" )
     parser.add_argument('--train_batch_size', default=3, type=int, metavar='N',
                     help='Training mini-batch size(default 8)')
     parser.add_argument( '--val_batch_size', default=12, type=int, metavar='N',
